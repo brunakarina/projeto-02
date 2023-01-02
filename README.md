@@ -1,24 +1,20 @@
 ![preview](./images/explorer.png)
 
-# Explorer Stage 02 - Projeto Treine-me 🏋🏻‍♀️
+# Stage 02 Desafio - Semântica e acessibilidade 💻 
 
->Projeto desenvolvido no Stage 02 do programa Explorer da Rocketseat turma 08 🚀
+>Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização correta dos elementos do HTML.
 
-![preview](./images/preview.png)
+>Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, ao contrário do que foi feito em aula, ele não apresenta a semântica correta.
+
+>Como você pode ver na imagem abaixo, a página (exceto o botão) continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... 👀
+
+![preview](./images/Acessibilidade.png)
+
+## Desafio Concluído ✔
 
 ## ⚙ Tecnologias
 - HTML
 - CSS
-
-[🔗 Clique aqui para acessar](https://brunakarina.github.io./projeto-02/)
-
- ## 🚀 Alguns conceitos aprendidos no Stage 02:
-- Posicionamento de elementos;
-- Tags semânticas;
-- Conceitos do Box Model;
-- Conceitos do Flexbox;
-- Acessibilidade;
-- Função linear-gradient(); 
 
 ## 📫 Contato
 - brubskarina@gmail.com
